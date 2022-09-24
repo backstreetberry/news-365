@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Porsche IPO: Luxury car maker valued at up to $75bn in share sale",
+            "description": "The stock market flotation is set to be Germany's second-largest ever initial public offering.",
+            "url": "http://www.bbc.co.uk/news/business-62951431",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/167F2/production/_126764129_gettyimages-1242994511.jpg",
+            "publishedAt": "2022-09-19T04:07:21.0070323Z",
+            "content": "By Peter HoskinsBusiness reporter\r\nGerman car making giant Volkswagen (VW) has said it is aiming for a valuation of up to 75 billion euros ($75bn; £65.8bn) for Porsche when the luxury brand is floate… [+1853 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Biden again says US would defend Taiwan if China attacks",
+            "description": "The US president says troops would defend the island, but the White House downplays the comments.",
+            "url": "http://www.bbc.co.uk/news/world-asia-62951347",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D706/production/_126764055_mediaitem126764054.jpg",
+            "publishedAt": "2022-09-19T03:07:21.9917524Z",
+            "content": "By Frances MaoBBC News\r\nUS President Joe Biden has again said the US would defend Taiwan in the event of an \"unprecedented attack\" by China.\r\nSpeaking in a CBS interview, Mr Biden replied \"Yes\" when … [+2638 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Kyrgyzstan-Tajikistan border fighting claimed nearly 100 lives",
+            "description": "Clashes along the two Central Asian countries' disputed border were the deadliest seen in years.",
+            "url": "http://www.bbc.co.uk/news/world-asia-62950787",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DD3C/production/_126763665_gettyimages-1243274198.jpg",
+            "publishedAt": "2022-09-18T23:37:24.3004473Z",
+            "content": "By Alys DaviesBBC News\r\nAt least 94 people have been killed in clashes on the Kyrgyzstan-Tajikistan border - the deadliest clashes in years.\r\nFighting between the two Central Asian states broke out o… [+1471 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Perseverance: Nasa Mars rover collects 'amazing' rock samples",
+            "description": "The US space agency's Perseverance robot is close to completing its first set of objectives on Mars.",
+            "url": "http://www.bbc.co.uk/news/science-environment-62950404",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17A28/production/_124780869_pia24836_perseverance_selfie_at_rochette_figure_3_croppedcloseup.jpg",
+            "publishedAt": "2022-09-18T22:52:22.3970739Z",
+            "content": "Jonathan AmosScience correspondent@BBCAmoson Twitter\r\nMedia caption, Watch: Perseverance's super detailed panorama of the delta's edge and surrounding landscape\r\nThe US space agency's Perseverance ro… [+5052 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "What the queue says about our relationship with royalty",
+            "description": "Nick Robinson delves into the archive to explore the significance of the queue to see the Queen's lying-in-state.",
+            "url": "http://www.bbc.co.uk/news/uk-62949220",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F2B8/production/_126763126_p0d15ywz.jpg",
+            "publishedAt": "2022-09-18T22:52:19.5384107Z",
+            "content": "The queues to see the Queen Elizabeth's coffin in Westminster Hall over the last few days have become a familiar sight, and are likely to remain among the most striking images of this period of natio… [+215 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "George and Charlotte to join Westminster Abbey mourners",
+            "description": "The young prince and princess will join more than 2,000 mourners in the congregation.",
+            "url": "http://www.bbc.co.uk/news/uk-62948871",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B622/production/_126762664_hi076507090.jpg",
+            "publishedAt": "2022-09-18T22:07:22.5726619Z",
+            "content": "By Sean CoughlanRoyal correspondent\r\nPrince George and Princess Charlotte will join more than 2,000 guests at the Queen's funeral in Westminster Abbey.\r\nNine-year-old George and his sister, seven, wi… [+3715 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Gaza farmer finds Byzantine mosaic while planting tree",
+            "description": "Experts call the mosaic one of the greatest archaeological treasures ever found in Gaza.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-62950786",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3094/production/_126763421_74f3e6ab0c56edd23bab49904724b7ab9a2ebb5a.jpg",
+            "publishedAt": "2022-09-18T21:52:23.3042929Z",
+            "content": "By Alys DaviesBBC News\r\nA Palestinian farmer has discovered an ornate Byzantine floor mosaic while trying to plant an olive tree on his land in the Gaza Strip.\r\nSalman al-Nabahin said he and his son … [+1464 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Hurricane Fiona knocks out Puerto Rico electricity",
+            "description": "The US island's population of 3.3 million loses electricity as Hurricane Fiona makes landfall.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62947900",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/148A8/production/_126763148_3635e83fdde85e6fe08b4226ec97b9fbd289e231.jpg",
+            "publishedAt": "2022-09-18T21:07:16.3983928Z",
+            "content": "By Merlyn ThomasBBC News\r\nThe arrival of Hurricane Fiona has knocked out all electricity on the US island of Puerto Rico.\r\nThe operator of the island's grid, Luma Energy, said the system had lost pow… [+1466 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Nyege Nyege: Sell-out crowd at 'immoral' Ugandan music festival",
+            "description": "Some say a threat to ban the Nyege Nyege festival actually boosted ticket sales.",
+            "url": "http://www.bbc.co.uk/news/world-africa-62945974",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17C24/production/_126761379_nyege.jpg",
+            "publishedAt": "2022-09-18T16:52:21.4754923Z",
+            "content": "Thousands of revellers from across East Africa and the world have gathered for Uganda's Nyege Nyege festival which was allowed to go ahead despite a threat to ban it because of \"immorality\".\r\nCritics… [+2645 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "'Call me foreign agent' says Russian anti-war pop star Alla Pugacheva",
+            "description": "Russian pop star Alla Pugacheva condemns the Ukraine war, in solidarity with her showbiz husband.",
+            "url": "http://www.bbc.co.uk/news/world-europe-62948146",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13246/production/_126760487_pugachevaok22mar11getty.jpg",
+            "publishedAt": "2022-09-18T16:37:21.7563277Z",
+            "content": "One of Russia's most popular singers, Alla Pugacheva, has called on the Russian authorities to declare her a \"foreign agent\", in solidarity with her strongly anti-war husband Maxim Galkin.\r\nA showbiz… [+1672 chars]"
+        }
+    ]
+}
